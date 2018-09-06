@@ -6,4 +6,4 @@ This interactive php page also notifies you if your input is invalid or if you e
 
 Walk Through -> http://g.recordit.co/etoEg8Gjrz.gif
 
-<img style="-webkit-user-select: none;cursor: zoom-in;" src="http://g.recordit.co/etoEg8Gjrz.gif" width="704" height="390">
+<img style="-webkit-user-select: none;cursor: zoom-in;" src="http://g.recordit.co/etoEg8Gjrz.gif" width="300" height="200">
